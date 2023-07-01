@@ -1,2 +1,2 @@
-# picgo2
-图床2
+# BlogDiscussions
+博客评论区
